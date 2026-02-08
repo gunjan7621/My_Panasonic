@@ -125,10 +125,10 @@ export const Footer = () => {
             © {new Date().getFullYear()} Panasonic Corporation. All Rights Reserved.
           </p>
           <div className="flex gap-6">
-            <a href="#" className="text-navy-foreground/60 hover:text-primary text-sm transition-colors">
+            <a href="/" className="text-navy-foreground/60 hover:text-primary text-sm transition-colors">
               Privacy Policy
             </a>
-            <a href="#" className="text-navy-foreground/60 hover:text-primary text-sm transition-colors">
+            <a href="/" className="text-navy-foreground/60 hover:text-primary text-sm transition-colors">
               Terms of Use
             </a>
           </div>

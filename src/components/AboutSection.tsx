@@ -50,11 +50,11 @@ export const AboutSection = () => {
               total cost.
             </p>
             <a
-              href="#"
-              className="inline-flex items-center gap-2 btn-outline"
-            >
-              Know More
-            </a>
+  href="#about" // Change from "#" to a valid ID or "/"
+  className="inline-flex items-center gap-2 btn-outline"
+>
+  Know More
+</a>
           </motion.div>
         </div>
       </div>
